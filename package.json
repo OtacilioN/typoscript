@@ -1,0 +1,25 @@
+{
+  "name": "typoscript",
+  "version": "1.0.0",
+  "description": "A package that installs the TypeScript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtacilioN/typoscript.git"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+  "keywords": [
+    "typo"
+  ],
+  "author": "OtacilioN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtacilioN/typoscript/issues"
+  },
+  "homepage": "https://github.com/OtacilioN/typoscript#readme"
+}
