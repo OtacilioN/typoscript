@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/OtacilioN/typoscript.git"
   },
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.9.4"
   },
   "keywords": [
